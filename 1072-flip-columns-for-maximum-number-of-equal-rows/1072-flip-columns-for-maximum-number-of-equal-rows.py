@@ -5,8 +5,8 @@ class Solution:
         mp = {}
         for row in matrix:
             if row[0] == 0:
-                op = ''.join([(str(1-x)) for x in row])
+                op = tuple([1-x for x in row])
             else:
-                op = ''.join([(str(x)) for x in row])
+                op = tuple(row)
             mp[op] = mp.get(op,0) + 1
         return max(mp.values())
