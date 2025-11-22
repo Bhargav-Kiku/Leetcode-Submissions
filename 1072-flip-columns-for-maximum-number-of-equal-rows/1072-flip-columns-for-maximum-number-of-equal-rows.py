@@ -6,5 +6,7 @@ class Solution:
                 op = tuple([1-x for x in row])
             else:
                 op = tuple(row)
-            mp[op] = mp.get(op,0) + 1
+            if op not in mp:
+                mp[op] = 0
+            mp[op] += 1
         return max(mp.values())
