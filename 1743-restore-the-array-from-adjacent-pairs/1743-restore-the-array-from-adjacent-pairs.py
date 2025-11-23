@@ -1,8 +1,12 @@
 class Solution:
     def restoreArray(self, adjacentPairs: List[List[int]]) -> List[int]:
-        mps = defaultdict(list)
+        mps = {}
         for i, j in adjacentPairs:
+            if i not in mps:
+                mps[i] = []
             mps[i].append(j)
+            if j not in mps:
+                mps[j] = []
             mps[j].append(i)
         res = []
         vis = set()
