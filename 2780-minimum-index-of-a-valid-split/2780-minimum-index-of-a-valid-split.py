@@ -1,7 +1,7 @@
 class Solution:
     def minimumIndex(self, nums: List[int]) -> int:
-        e = -1
-        c = 0
+        e = nums[0]
+        c = 1
         for i in nums:
             if e == i:
                 c += 1
@@ -16,7 +16,6 @@ class Solution:
         for i in range(n-1):
             if nums[i] == e:
                 nc += 1
-            if nc > (i+1)/2 and (c-nc) > (n-i-1)/2:
+            if nc > (i+1)//2 and (c-nc) > (n-i-1)//2:
                 return i
-            # print(i,nc)
         return -1
