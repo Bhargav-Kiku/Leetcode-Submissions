@@ -5,11 +5,11 @@ class Solution:
         for i in nums:
             if e == i:
                 c += 1
+            elif c == 0:
+                e = i
+                c = 1
             else:
                 c -= 1
-                if c <= 0:
-                    e = i
-                    c = 1
         c = nums.count(e)
         nc = 0
         n = len(nums)
