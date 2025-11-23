@@ -1,6 +1,7 @@
 class Solution:
     def minFlips(self, grid: List[List[int]]) -> int:
         n, m = len(grid), len(grid[0])
+        if n == 1 or m == 1: return 0
         rc = 0
         for r in grid:
             x = 0
