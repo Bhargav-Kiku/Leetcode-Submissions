@@ -1,6 +1,6 @@
 class Solution:
     def restoreArray(self, adjacentPairs: List[List[int]]) -> List[int]:
-        mps = {}
+        mps = defaultdict(list)
         for i, j in adjacentPairs:
             mps[i].append(j)
             mps[j].append(i)
