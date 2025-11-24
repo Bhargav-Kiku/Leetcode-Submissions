@@ -4,8 +4,5 @@ class Solution:
         res = []
         for i in nums:
             n = (n * 2 + i) % 5
-            if n == 0:
-                res.append(True)
-            else:
-                res.append(False)
+            res.append(n==0)
         return res
