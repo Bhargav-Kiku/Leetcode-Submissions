@@ -1,6 +1,6 @@
 m = 1000000007
 class Solution:
-    @cache
+    @lru_cache
     def maxNiceDivisors(self, n: int) -> int:
         if n <= 3:
             return n
