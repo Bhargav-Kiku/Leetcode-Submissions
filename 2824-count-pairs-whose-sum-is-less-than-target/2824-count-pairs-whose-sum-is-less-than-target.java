@@ -4,8 +4,9 @@ class Solution {
         int res = 0;
         Collections.sort(nums);
         for (int i = 0; i < n; i++) {
+            int x = nums.get(i);
             for (int j = i + 1; j < n; j++) {
-                if (nums.get(i) + nums.get(j) < target) res++;
+                if (x + nums.get(j) < target) res++;
                 else break;
             }
         }
