@@ -2,13 +2,8 @@ class Solution:
     def countElements(self, nums: List[int], k: int) -> int:
         n = len(nums)
         if k == 0: return n
-        f = Counter(nums)
-        li = sorted(list(f.keys()))
-        res = 0
-        for i in li:
-            n -= f[i]
-            if n >= k:
-                res += f[i]
-            else:
-                break
-        return res
+        nums.sort()
+        idx = n - k - 1
+        while idx >= 0 and nums[idx] == nums[idx+1]:
+            idx -= 1
+        return idx+1
