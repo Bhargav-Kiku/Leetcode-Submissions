@@ -1,7 +1,7 @@
 class Solution:
     def countElements(self, nums: List[int], k: int) -> int:
         n = len(nums)
-        if k == 0: return 0
+        if k == 0: return n
         f = Counter(nums)
         li = sorted(list(f.keys()))
         res = 0
