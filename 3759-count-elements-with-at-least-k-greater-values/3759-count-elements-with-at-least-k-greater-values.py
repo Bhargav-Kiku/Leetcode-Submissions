@@ -8,4 +8,6 @@ class Solution:
             n -= f[i]
             if n >= k:
                 res += f[i]
+            else:
+                break
         return res
