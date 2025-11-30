@@ -3,21 +3,14 @@ public:
     int countElements(vector<int>& nums, int k) {
         int n = nums.size();
         if (k == 0) return n;
-        map<int, int> f;
-        for (int i: nums) {
-            f[i]++;
-        }
-        int rm = n;
-        int res = 0;
+        sort(nums.begin(), nums.end());
+        
+        int idx = n - k - 1;
 
-        for (auto& pair : f) {
-            int x = pair.first;
-            int y = pair.second;
-            rm -= y;
-            if (rm >= k) res += y;
-            else break;
+        while (idx >= 0 && nums[idx] == nums[idx+1]) {
+            idx--;
         }
 
-        return res;
+        return idx+1;
     }
 };
