@@ -20,5 +20,5 @@ class Solution:
                     res += 1
                     st.pop()
                 st.append(i)
-            print(res)
+            # print(res)
         return res
