@@ -1,31 +1,29 @@
+p = {}
 class Solution:
-    def completePrime(self, num: int) -> bool:
-        vis = {}
-        def isPrime(x):
-            if x in vis:
-                return vis[x]
-            if x == 1:
+    def isPrime(self, x):
+        if x in p:
+            return p[x]
+        if x == 1:
+            return False
+        for i in range(2,int(x**(0.5)) + 1):
+            if x % i == 0:
+                p[x] = False
                 return False
-            if x == 2 or x == 3:
-                return True
-            for i in range(2,int(x**(0.5)) + 1):
-                if x % i == 0:
-                    vis[x] = False
-                    return False
-            vis[x] = True
-            return True
+        p[x] = True
+        return True
+    def completePrime(self, num: int) -> bool:
         x = 0
         tn = 10
         while tn <= num:
             x = num % tn
             tn *= 10
-            if not isPrime(x):
+            if not self.isPrime(x):
                 return False
         x = 0
         tn = 10**len(str(num))
         while tn > 0:
             x = num // tn
             tn //= 10
-            if not isPrime(x):
+            if not self.isPrime(x):
                 return False
         return True
