@@ -3,9 +3,12 @@ class Solution {
     private Boolean isPrime(int x) {
         if (p.containsKey(x)) return p.get(x);
         if (x == 0) return true;
-        if (x == 1) return false;
-        for (int i = 2; i <= Math.sqrt(x); i++) {
-            if (x % i == 0) {
+        if (x <= 1) return false;
+        if (x <= 3) return true;
+        if (x % 2 == 0 || x % 3 == 0) return false;
+
+        for (int i = 5; i * i <= x; i += 6) {
+            if (x % i == 0 || x % (i + 2) == 0) {
                 p.put(x,false);
                 return false;
             }
@@ -18,6 +21,7 @@ class Solution {
         int tn = 10;
         while (tn < num) {
             int x = num % tn;
+            // System.out.println(x);
             tn *= 10;
             if (!isPrime(x)) return false;
         }
