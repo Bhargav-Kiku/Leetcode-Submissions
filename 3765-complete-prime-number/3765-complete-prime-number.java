@@ -14,14 +14,15 @@ class Solution {
         return true;
     }
     public boolean completePrime(int num) {
+        if (!isPrime(num)) return false;
         int tn = 10;
-        while (tn <= num) {
+        while (tn < num) {
             int x = num % tn;
             tn *= 10;
             if (!isPrime(x)) return false;
         }
-        while (tn > 0) {
-            int x = num % tn;
+        while (tn/10 > 0) {
+            int x = num / tn;
             tn /= 10;
             if (!isPrime(x)) return false;
         }
