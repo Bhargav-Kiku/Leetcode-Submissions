@@ -1,13 +1,18 @@
 class Solution:
     def completePrime(self, num: int) -> bool:
+        vis = {}
         def isPrime(x):
+            if x in vis:
+                return vis[x]
             if x == 1:
                 return False
             if x == 2 or x == 3:
                 return True
             for i in range(2,int(x**(0.5)) + 1):
                 if x % i == 0:
+                    vis[x] = False
                     return False
+            vis[x] = True
             return True
         x = 0
         tn = 10
