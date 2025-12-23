@@ -7,7 +7,7 @@ class Solution:
         dp[0] = True
         for i in nums:
             if i > t:
-                continue
+                break
             for j in range(t,-1,-1):
                 if dp[j]:
                     if j + i <= t:
