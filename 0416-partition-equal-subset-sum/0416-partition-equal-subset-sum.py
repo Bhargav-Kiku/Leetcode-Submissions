@@ -12,5 +12,4 @@ class Solution:
                 if dp[j]:
                     if j + i <= t:
                         dp[j+i] = True
-        # print(dp)
         return dp[-1]
