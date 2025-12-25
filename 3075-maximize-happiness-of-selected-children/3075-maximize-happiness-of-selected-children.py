@@ -4,8 +4,8 @@ class Solution:
         happiness.sort(reverse = True)
         res = 0
         t = 0
-        for i in range(n):
-            res += max(0, happiness[i] - t)
+        for i in happiness:
+            res += max(0, i - t)
             if t < k - 1:
                 t += 1
             else:
