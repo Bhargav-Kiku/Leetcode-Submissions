@@ -9,5 +9,4 @@ class Solution:
             if t < k - 1:
                 t += 1
             else:
-                break
-        return res
+                return res
