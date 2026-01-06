@@ -6,9 +6,7 @@ class Solution {
         }
         int res = 0;
         for (int x: nums) {
-            if (f.containsKey(x+k)) {
-                res += f.get(x+k);
-            }
+            res += f.getOrDefault(x+k,0);
         }
         return res;
     }
