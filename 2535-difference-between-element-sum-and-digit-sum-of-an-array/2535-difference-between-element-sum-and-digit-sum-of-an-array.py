@@ -3,6 +3,7 @@ class Solution:
         res = 0
         for i in nums:
             res += i
-            for x in str(i):
-                res -= int(x)
-        return abs(res)
+            while i > 0:
+                res -= i % 10
+                i //= 10
+        return res
