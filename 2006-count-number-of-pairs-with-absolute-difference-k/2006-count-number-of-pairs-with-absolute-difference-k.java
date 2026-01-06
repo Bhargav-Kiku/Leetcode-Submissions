@@ -1,6 +1,6 @@
 class Solution {
     public int countKDifference(int[] nums, int k) {
-        Map<Integer, Integer> f = new TreeMap<>();
+        HashMap<Integer, Integer> f = new HashMap<>();
         for (int x: nums) {
             f.put(x, f.getOrDefault(x,0) + 1);
         }
