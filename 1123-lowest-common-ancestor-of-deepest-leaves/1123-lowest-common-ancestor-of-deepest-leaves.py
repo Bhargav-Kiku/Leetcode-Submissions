@@ -16,5 +16,4 @@ class Solution:
             return 1 + r, rt
         return 1 + l, node
     def lcaDeepestLeaves(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        _, y = self.getTree(root)
-        return y
+        return self.getTree(root)[1]
