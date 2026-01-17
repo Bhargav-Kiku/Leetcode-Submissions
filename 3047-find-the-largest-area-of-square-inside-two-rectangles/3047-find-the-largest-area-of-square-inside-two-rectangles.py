@@ -8,7 +8,5 @@ class Solution:
                 maxX = min(tr[i][0], tr[j][0])
                 minY = max(bl[i][1], bl[j][1])
                 maxY = min(tr[i][1], tr[j][1])
-                if minX < maxX and minY < maxY:
-                    length = min(maxX - minX, maxY - minY)
-                    s = max(s, length)
+                s = max(s, min(maxX - minX, maxY - minY) * (minX < maxX and minY < maxY))
         return s * s
