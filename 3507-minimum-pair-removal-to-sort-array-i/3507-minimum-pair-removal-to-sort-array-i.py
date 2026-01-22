@@ -1,7 +1,13 @@
 class Solution:
+    def i_s(self, nums):
+        n = len(nums)
+        for i in range(1,n):
+            if nums[i] < nums[i-1]:
+                return False
+        return True
     def minimumPairRemoval(self, nums: List[int]) -> int:
         res = 0
-        while nums != sorted(nums):
+        while not self.i_s(nums):
             mins = float('inf')
             idx = 0
             for i in range(len(nums)-1):
