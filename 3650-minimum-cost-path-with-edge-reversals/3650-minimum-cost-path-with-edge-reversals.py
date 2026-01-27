@@ -11,8 +11,10 @@ class Solution:
             nn, nc = heapq.heappop(q)
             if nc > vis[nn]:
                 continue
+            if nn == n - 1:
+                return nc
             for x, j in adj[nn]:
                 if j + nc < vis[x]:
                     vis[x] = j + nc
                     heapq.heappush(q, (x, j + nc))
-        return vis[n-1] if vis[n-1] != float('inf') else -1
+        return -1
