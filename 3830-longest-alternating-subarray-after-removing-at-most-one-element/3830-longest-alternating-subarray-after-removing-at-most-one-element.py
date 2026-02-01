@@ -1,34 +1,23 @@
 class Solution:
     def longestAlternating(self, nums: List[int]) -> int:
         n = len(nums)
-        dp = [[0, 0] for _ in range(n)]
-        dp[0] = [1, 1]
+        res = 1
+        f0 = g0 = f1 = g1 = 1
+        fp2 = g_ = 1
         for i in range(1, n):
-            if nums[i-1] < nums[i]: 
-                dp[i][0] = dp[i-1][1]+1
-                dp[i][1] = 1
-            elif nums[i-1] > nums[i]: 
-                dp[i][1] = dp[i-1][0]+1
-                dp[i][0] = 1
-            else: 
-                dp[i][1] = 1
-                dp[i][0] = 1
-        dp2 = [[0, 0] for _ in range(n)]
-        dp2[-1] = [1, 1]
-        for i in range(n-2, -1, -1):
-            if nums[i+1] < nums[i]: 
-                dp2[i][0] = dp2[i+1][1]+1
-                dp2[i][1] = 1
-            elif nums[i+1] > nums[i]: 
-                dp2[i][1] = dp2[i+1][0]+1
-                dp2[i][0] = 1
-            else:
-                dp2[i][1] = 1
-                dp2[i][0] = 1
-        a, b = max(max(dp[i]) for i in range(n)), max(max(dp2[i]) for i in range(n))
-        res = max(a, b)
-        for i in range(1, n-1):
-            l, r = nums[i-1], nums[i+1]
-            if l > r: res = max(res, dp[i-1][0]+dp2[i+1][1])
-            elif l < r: res = max(res, dp[i-1][1]+dp2[i+1][0])
+            a, b = nums[i-1], nums[i]
+            nf0 = ng0 = 1
+            if a < b: nf0 = g0 + 1
+            elif a > b: ng0 = f0 + 1
+            nf1 = ng1 = 1
+            if a < b: nf1 = g1 + 1
+            elif a > b: ng1 = f1 + 1
+            if i >= 2:
+                c = nums[i - 2]
+                if c < b: nf1 = max(nf1, g_ + 1)
+                elif c > b: ng1 = max(ng1, fp2 + 1)
+            res = max(res, nf0, ng0, nf1, ng1)
+            fp2, g_ = f0, g0
+            f0, g0 = nf0, ng0
+            f1, g1 = nf1, ng1
         return res
