@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/check-digitorial-permutation">3848. Check Digitorial Permutation</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>.</p>
+<h2><a href="https://leetcode.com/problems/check-digitorial-permutation/">3848. Check Digitorial Permutation</a></h2><h3>Medium</h3><hr><p>You are given an integer <code>n</code>.</p>
 
 <p>A number is called <strong>digitorial</strong> if the sum of the <strong>factorials</strong> of its digits is <strong>equal</strong> to the number itself.</p>
 
