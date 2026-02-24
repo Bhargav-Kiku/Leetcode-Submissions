@@ -8,10 +8,10 @@ class Solution:
     def sumRootToLeaf(self, root: Optional[TreeNode]) -> int:
         self.res = 0
         def recur(node, c):
-            if node and not node.left and not node.right:
-                self.res += (c << 1) | node.val
-                return
             if not node:
+                return
+            if not node.left and not node.right:
+                self.res += (c << 1) | node.val
                 return
             recur(node.right, (c << 1) | (node.val))
             recur(node.left, (c << 1) | (node.val))
