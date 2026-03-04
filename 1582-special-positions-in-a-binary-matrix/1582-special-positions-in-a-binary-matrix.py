@@ -5,8 +5,9 @@ class Solution:
         c = [0] * m
         for i in range(n):
             for j in range(m):
-                r[i] += mat[i][j]
-                c[j] += mat[i][j]
+                if mat[i][j] == 1:
+                    r[i] += 1
+                    c[j] += 1
         
         res = 0
         for i in range(n):
