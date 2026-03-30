@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Two Pointers
 |  |
@@ -154,5 +156,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 <!---LeetCode Topics End-->
