@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2069-walking-robot-simulation-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2069-walking-robot-simulation-ii) |
 | [2751-robot-collisions](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Dynamic Programming
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2069-walking-robot-simulation-ii) |
 ## Segment Tree
 |  |
 | ------- |
