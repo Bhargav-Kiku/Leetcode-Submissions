@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2463-minimum-total-distance-traveled) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2751-robot-collisions) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -216,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
