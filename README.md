@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1622-fancy-sequence) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
