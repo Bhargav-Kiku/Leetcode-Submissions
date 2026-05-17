@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
+| [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Trie
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
