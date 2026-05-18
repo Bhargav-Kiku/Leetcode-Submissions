@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
 | [2615-sum-of-distances](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Linked List
