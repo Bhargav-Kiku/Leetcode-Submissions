@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2463-minimum-total-distance-traveled) |
+| [2540-minimum-common-value](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2573-find-the-string-with-lcp) |
 | [2615-sum-of-distances](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2615-sum-of-distances) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2540-minimum-common-value](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2540-minimum-common-value) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3488-closest-equal-element-queries) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1861-rotating-the-box) |
+| [2540-minimum-common-value](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2540-minimum-common-value) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Enumeration
 |  |
@@ -244,6 +247,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
+| [2540-minimum-common-value](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
