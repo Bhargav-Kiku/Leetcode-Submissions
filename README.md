@@ -288,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0061-rotate-list](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1861-rotating-the-box) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2540-minimum-common-value](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -326,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
