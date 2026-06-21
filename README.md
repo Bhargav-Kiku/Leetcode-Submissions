@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1840-maximum-building-height) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -279,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1340-jump-game-v) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2126-destroying-asteroids](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2126-destroying-asteroids) |
@@ -395,4 +398,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
