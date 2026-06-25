@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -205,6 +206,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3546-equal-sum-grid-partition-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -280,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3161-block-placement-queries) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -337,6 +340,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3488-closest-equal-element-queries](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String Matching
@@ -354,6 +358,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -371,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Geometry
 |  |
 | ------- |
@@ -409,4 +415,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
