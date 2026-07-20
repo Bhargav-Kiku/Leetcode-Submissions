@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2069-walking-robot-simulation-ii) |
