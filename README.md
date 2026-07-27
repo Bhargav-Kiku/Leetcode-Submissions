@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1340-jump-game-v) |
 | [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -335,6 +336,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1340-jump-game-v) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1833-maximum-ice-cream-bars) |
