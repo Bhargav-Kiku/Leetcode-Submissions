@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0200-number-of-islands](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1260-shift-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -472,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -499,6 +503,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
