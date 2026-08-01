@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0200-number-of-islands](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0200-number-of-islands) |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [1260-shift-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 |  |
@@ -207,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -316,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -568,4 +572,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
