@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0874-walking-robot-simulation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1301-number-of-paths-with-max-score) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1340-jump-game-v) |
@@ -252,6 +254,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1871-jump-game-vii) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1622-fancy-sequence](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1622-fancy-sequence) |
@@ -600,5 +604,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
