@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3700-number-of-zigzag-arrays-ii) |
