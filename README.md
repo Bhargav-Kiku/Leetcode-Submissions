@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1833-maximum-ice-cream-bars](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2126-destroying-asteroids) |
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -368,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1622-fancy-sequence](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1840-maximum-building-height) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [1927-sum-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -646,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
