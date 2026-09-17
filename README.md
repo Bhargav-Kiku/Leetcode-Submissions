@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1563-stone-game-v) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1340-jump-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -297,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1871-jump-game-vii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -344,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2540-minimum-common-value](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2540-minimum-common-value) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -544,6 +548,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1331-rank-transform-of-an-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2540-minimum-common-value](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2540-minimum-common-value) |
 | [2615-sum-of-distances](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2615-sum-of-distances) |
