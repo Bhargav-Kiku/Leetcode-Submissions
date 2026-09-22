@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0434-number-of-segments-in-a-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
