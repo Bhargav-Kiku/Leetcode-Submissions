@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0441-arranging-coins](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
+| [0441-arranging-coins](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0788-rotated-digits) |
