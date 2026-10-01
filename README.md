@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0796-rotate-string) |
@@ -608,6 +609,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -773,6 +775,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
