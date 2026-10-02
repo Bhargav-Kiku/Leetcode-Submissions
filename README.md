@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0796-rotate-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0796-rotate-string) |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
@@ -479,6 +481,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
@@ -776,6 +779,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
