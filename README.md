@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1386-cinema-seat-allocation) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -199,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0434-number-of-segments-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
 | [0396-rotate-function](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0788-rotated-digits](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0940-distinct-subsequences-ii) |
@@ -616,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -784,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
