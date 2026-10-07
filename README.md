@@ -200,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [0434-number-of-segments-in-a-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0434-number-of-segments-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0796-rotate-string) |
@@ -490,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
@@ -675,6 +677,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0200-number-of-islands) |
+| [0301-remove-invalid-parentheses](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/0301-remove-invalid-parentheses) |
 | [1306-jump-game-iii](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1345-jump-game-iv) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Bhargav-Kiku/Leetcode-Submissions/tree/master/1559-detect-cycles-in-2d-grid) |
